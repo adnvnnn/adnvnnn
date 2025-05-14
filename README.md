@@ -25,6 +25,11 @@ Duration:December 2022 - Present
 - Developed scalable APIs and multilingual websites.
 - Implemented DevOps tools like Docker and Git for streamlined development.
 
+## Education
+Computer Engineering  
+Azad University - 2021 - Present
+
+
 
 
 ## Contact Me
