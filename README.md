@@ -21,7 +21,7 @@ I am a full-stack developer with a focus on building scalable APIs and designing
 
 ## Experience
 Full-stack Developer at TSMA Company
-- Duration:December 2022 - Present
+- Duration: December 2022 - Present
 - Developed scalable APIs and multilingual websites.
 - Implemented DevOps tools like Docker and Git for streamlined development.
 
