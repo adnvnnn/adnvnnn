@@ -26,8 +26,8 @@ Full-stack Developer at TSMA Company
 - Implemented DevOps tools like Docker and Git for streamlined development.
 
 ## Education
-Computer Engineering  
-Azad University - 2021 - Present
+- Computer Engineering  
+- Azad University - 2021 - Present
 
 
 
