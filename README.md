@@ -19,6 +19,14 @@ I am a full-stack developer with a focus on building scalable APIs and designing
 - Working with databases such as **MongoDB** and **PostgreSQL**.
 - Utilizing DevOps tools like **Docker** and **Git** for streamlined development and deployment.
 
+## Experience
+### Full-stack Developer at TSMA Company
+Duration:December 2022 - Present
+- Developed scalable APIs and multilingual websites.
+- Implemented DevOps tools like Docker and Git for streamlined development.
+
+
+
 ## Contact Me
 - Email: ADNAN.ABDOLLAHZADE@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adnan-abdollahzade-266463347
