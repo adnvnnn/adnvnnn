@@ -18,13 +18,20 @@ My work is heavily focused on applying **clean architectural principles**, domai
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## Expertise
+- Developing RESTful APIs using ASP.NET, EF Core, and .NET Core
+- Implementing scalable backend systems with Clean Architecture, CQRS, and Vertical Slice Architecture
+- Building web applications with Razor Pages, MVC, and C#
+- Working with relational databases like SQL Server and MySQL
+- Managing source code and deployment workflows using Git and Docker
 
-**Experience**
+
+## Experience
 
   - Full-stack Developer at TSMA Company
   - Duration: December 2022 - Present
 
-**Education**
+## Education
 
   - Computer Engineering
   - Azad University - 2021 - Present
