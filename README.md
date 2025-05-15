@@ -13,7 +13,6 @@ I am a full-stack developer with a focus on building scalable APIs and designing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-6DB33F?style=flat&logo=abstract&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-007ACC?style=flat&logo=azuredevops&logoColor=white)
-![Vertical Slice](https://img.shields.io/badge/Vertical--Slice--Architecture-0052CC?style=flat&logo=bit&logoColor=white)
 
 ## Expertise
 - Developing scalable **RESTful** APIs.
