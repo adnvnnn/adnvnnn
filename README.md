@@ -25,7 +25,7 @@ I am a full-stack developer with a focus on building scalable APIs and designing
 
 ## Experience
 - Full-stack Developer at TSMA Company
-- Duration: December 2022 - Present
+- Duration: January 2023 - Present
 
 ## Education
 - Computer Engineering  
