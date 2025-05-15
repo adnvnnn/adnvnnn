@@ -17,3 +17,14 @@ My work is heavily focused on applying **clean architectural principles**, domai
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+Experience
+
+  - Full-stack Developer at TSMA Company
+  - Duration: December 2022 - Present
+
+Education
+
+  - Computer Engineering
+  - Azad University - 2021 - Present
