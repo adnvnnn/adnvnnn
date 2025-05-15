@@ -29,7 +29,7 @@ My work is heavily focused on applying **clean architectural principles**, domai
 ## Experience
 
   - Full-stack Developer at TSMA Company
-  - Duration: December 2022 - Present
+  - Duration: January 2023 - Present
 
 ## Education
 
