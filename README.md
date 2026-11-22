@@ -39,9 +39,8 @@ I'm a Software Engineer focused on building maintainable backend systems and des
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
   ### Database & Infrastructure
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github" />
-
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github" height="48" />
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" />
   ### Frontend
   <img src="https://skillicons.dev/icons?i=blazor,react,html,css,js" />
 
