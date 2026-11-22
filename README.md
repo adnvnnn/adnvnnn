@@ -97,6 +97,29 @@ public class Developer
 
 </div>
 
+
+
+
+## Developer Rankings
+
+<div align="center">
+
+### GITHUB
+
+[![GitHub](https://img.shields.io/badge/@adnvnnn-24272B?style=flat-square&logo=github&logoColor=D6FCBB)](https://github.com/adnvnnn)
+
+### GLOBAL RANKING
+
+[![GitRanks](https://img.shields.io/badge/Explore%20My%20Ranking-GitRanks-134931?style=for-the-badge&logo=github&logoColor=D6FCBB)](https://gitranks.com/)
+
+<br />
+
+`CODE` &nbsp; `CONTRIBUTIONS` &nbsp; `OPEN SOURCE`
+
+</div>
+
+
+
 ## Connect With Me
 
 <div align="center">
