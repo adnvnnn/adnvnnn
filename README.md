@@ -1,17 +1,19 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3239,100:4A4D55&height=180&section=header" width="100%" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D6FCBB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adnan+%F0%9F%91%8B;Software+Engineer;.NET+Backend+Developer;Building+software+that+matters."
+    alt="Typing SVG"
+  />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D6FCBB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adnan+%F0%9F%91%8B;Software+Engineer; .NET+Backend+Developer;Building+software+that+matters." alt="Typing SVG" />
+  <br />
 
-  <p>
-    <a href="https://adnvnnn.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-2F3239?style=for-the-badge&logo=googlechrome&logoColor=D6FCBB" />
-    </a>
-    <a href="https://github.com/adnvnnn">
-      <img src="https://img.shields.io/badge/GitHub-2F3239?style=for-the-badge&logo=github&logoColor=D6FCBB" />
-    </a>
-  </p>
+  <a href="https://adnvnnn.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-2F3239?style=for-the-badge&logo=googlechrome&logoColor=D6FCBB" alt="Portfolio" />
+  </a>
+
+  <a href="https://github.com/adnvnnn">
+    <img src="https://img.shields.io/badge/GitHub-2F3239?style=for-the-badge&logo=github&logoColor=D6FCBB" alt="GitHub" />
+  </a>
 
 </div>
 
