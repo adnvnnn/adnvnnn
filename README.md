@@ -88,56 +88,6 @@ public class Developer
 </div>
 
 **Also building:** `BETA Pro` · `TSMA Pro`
-## Featured Projects
-
-### Toysino
-<a href="https://toysino.ir/">
-  <img src="https://adnvnnn.github.io/assets/img/projects/toysino/cover.webp" width="100%" alt="Toysino project" />
-</a>
-
-A modern e-commerce platform for toys, built with a focus on user experience and responsive design.
-
-`React` `React Router` `Framer Motion` `REST API` `RTL`
-
-[Visit Website](https://toysino.ir/)
-
----
-
-### AAE Electronic
-<a href="https://aaelectronic.ir/">
-  <img src="https://adnvnnn.github.io/assets/img/projects/aae/cover.webp" width="100%" alt="AAE Electronic project" />
-</a>
-
-A multilingual web platform with responsive layouts and interactive components.
-
-`ASP.NET` `CSS` `JavaScript` `Swiper` `Multilingual`
-
-[Visit Website](https://aaelectronic.ir/)
-
----
-
-### TSMA
-<a href="https://tsma-co.ir/">
-  <img src="https://adnvnnn.github.io/assets/img/projects/tsma/cover.webp" width="100%" alt="TSMA project" />
-</a>
-
-A B2B digital platform developed for a toy manufacturer, focused on business users and content management.
-
-`.NET 8` `Razor Pages` `Clean Architecture` `Entity Framework Core` `SQL Server`
-
-[Visit Website](https://tsma-co.ir/)
-
----
-
-### VMS
-
-<img src="https://adnvnnn.github.io/assets/img/projects/vms/cover.webp" width="100%" alt="VMS project" />
-
-A Windows-based management application built with a desktop-oriented architecture.
-
-`.NET Framework` `WinForms` `DevExpress` `Entity Framework` `SQL Server`
-
----
 
 ## GitHub Statistics
 
