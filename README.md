@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4AB6,50:48318B,100:24212B&height=220&section=header&text=Adnan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:24272B,50:454B52,100:17191C&height=220&section=header&text=Adnan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer&descAlignY=58&descSize=18"
     width="100%" />
 
   <a href="https://git.io/typing-svg">
