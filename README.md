@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm **Adnan**, a Full-Stack Developer with a strong focus on backend development and software architecture.
+I'm **Adnan**, a Backend Developer focused on building scalable applications, designing software architectures, and developing reliable backend systems.
 
 I enjoy solving problems, designing maintainable systems, and turning ideas into practical software.
 
@@ -32,7 +32,7 @@ My main interests include:
 public class Developer
 {
     public string Name => "Adnan";
-    public string Role => "Full-Stack Developer";
+    public string Role => "Backend Developer";
 
     public string[] Interests =>
     [
