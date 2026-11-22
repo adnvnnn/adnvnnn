@@ -99,22 +99,17 @@ public class Developer
 
 
 
-
-## Developer Rankings
+## GitRanks
 
 <div align="center">
 
-### GITHUB
+<a href="https://gitranks.com/profile/adnvnnn">
+  <img src="https://img.shields.io/badge/GITRANKS-Developer%20Ranking-24272B?style=for-the-badge&labelColor=134931&color=24272B" width="100%" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/@adnvnnn-24272B?style=flat-square&logo=github&logoColor=D6FCBB)](https://github.com/adnvnnn)
+**Explore my developer profile**
 
-### GLOBAL RANKING
-
-[![GitRanks](https://img.shields.io/badge/Explore%20My%20Ranking-GitRanks-134931?style=for-the-badge&logo=github&logoColor=D6FCBB)](https://gitranks.com/)
-
-<br />
-
-`CODE` &nbsp; `CONTRIBUTIONS` &nbsp; `OPEN SOURCE`
+[Global Rank](https://gitranks.com/profile/adnvnnn) · [GitHub Analytics](https://gitranks.com/)
 
 </div>
 
