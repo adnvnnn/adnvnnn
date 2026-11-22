@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24272B,50:454B52,100:17191C&height=220&section=header&text=Adnan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=AEB4BC&center=true&vCenter=true&width=600&lines=Building+Backend+Systems;Designing+Clean+Architectures;Turning+Coffee+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=AEB4BC&center=true&vCenter=true&width=600&lines=Building+Backend+Systems;Designing+Clean+Architectures;Build+simple.+Build+well.+Keep+improving." alt="Typing SVG" />
 
 <br />
 
