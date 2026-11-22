@@ -7,104 +7,143 @@
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-adnvnnn-24272B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnvnnn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-134931?style=for-the-badge&logo=googlechrome&logoColor=D6FCBB)](https://adnvnnn.github.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=adnvnnn&style=for-the-badge&color=454B52&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Software Engineer focused on building maintainable backend systems and designing practical software architectures.
+I'm **Adnan**, a Full-Stack Developer with a strong focus on backend development and software architecture.
 
-- 💻 C# & .NET Developer
-- 🏗️ Interested in Clean Architecture and Modular Monoliths
-- 🔧 Building business-oriented software
-- 📚 Always learning and improving
-- ☕ Powered by coffee
+I enjoy solving problems, designing maintainable systems, and turning ideas into practical software.
+
+My main interests include:
+
+- Backend development with **C# and .NET**
+- Software architecture and system design
+- Clean Code and maintainable solutions
+- Database design and optimization
+- Building intuitive web experiences
+
+```csharp
+public class Developer
+{
+    public string Name => "Adnan";
+    public string Role => "Full-Stack Developer";
+
+    public string[] Interests =>
+    [
+        "Backend Development",
+        "Software Architecture",
+        "Problem Solving",
+        "Clean Code"
+    ];
+}
+```
+
+## Tech Stack
+
+**Languages & Backend**
+
+![C#](https://img.shields.io/badge/C%23-134931?style=flat-square&logo=csharp&logoColor=D6FCBB)
+![.NET](https://img.shields.io/badge/.NET-134931?style=flat-square&logo=dotnet&logoColor=D6FCBB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-134931?style=flat-square&logo=dotnet&logoColor=D6FCBB)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework-134931?style=flat-square&logo=dotnet&logoColor=D6FCBB)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-24272B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-24272B?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-24272B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-24272B?style=flat-square&logo=react&logoColor=61DAFB)
+![Blazor](https://img.shields.io/badge/Blazor-24272B?style=flat-square&logo=blazor&logoColor=512BD4)
+
+**Database & Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-454B52?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-454B52?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-454B52?style=flat-square&logo=sqlite&logoColor=003B57)
+![Docker](https://img.shields.io/badge/Docker-454B52?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-454B52?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-454B52?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-454B52?style=flat-square&logo=visualstudio&logoColor=9B4F96)
+
+## Featured Projects
+
+### Toysino
+<a href="https://toysino.ir/">
+  <img src="https://adnvnnn.github.io/assets/img/projects/toysino/cover.webp" width="100%" alt="Toysino project" />
+</a>
+
+A modern e-commerce platform for toys, built with a focus on user experience and responsive design.
+
+`React` `React Router` `Framer Motion` `REST API` `RTL`
+
+[Visit Website](https://toysino.ir/)
 
 ---
 
-## 🛠️ Tech Stack
+### AAE Electronic
+<a href="https://aaelectronic.ir/">
+  <img src="https://adnvnnn.github.io/assets/img/projects/aae/cover.webp" width="100%" alt="AAE Electronic project" />
+</a>
 
-<div align="center">
+A multilingual web platform with responsive layouts and interactive components.
 
-### Backend
+`ASP.NET` `CSS` `JavaScript` `Swiper` `Multilingual`
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-
-### Database & Infrastructure
-
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" />
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github" height="48" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=blazor,react,html,css,js" />
-
-</div>
+[Visit Website](https://aaelectronic.ir/)
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### BETA Pro
-
-Manufacturing Quality Control Platform
-
-- Modular Monolith
-- Clean Architecture
-- Domain-driven Design
-- ASP.NET Core & SQL Server
-
-</td>
-<td width="50%">
-
-### TSMA Pro
-
-Manufacturing Operations System
-
-- QR-based Basket Tracking
-- Real-time Communication
-- SignalR
-- ASP.NET Core & Blazor
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
 
 ### TSMA
+<a href="https://tsma-co.ir/">
+  <img src="https://adnvnnn.github.io/assets/img/projects/tsma/cover.webp" width="100%" alt="TSMA project" />
+</a>
 
-B2B Digital Platform for a Toy Manufacturer
+A B2B digital platform developed for a toy manufacturer, focused on business users and content management.
 
-- Business-oriented applications
-- Modular Architecture
-- .NET Ecosystem
+`.NET 8` `Razor Pages` `Clean Architecture` `Entity Framework Core` `SQL Server`
 
-</td>
-</tr>
-</table>
+[Visit Website](https://tsma-co.ir/)
 
 ---
 
-## 📊 GitHub Statistics
+### VMS
+
+<img src="https://adnvnnn.github.io/assets/img/projects/vms/cover.webp" width="100%" alt="VMS project" />
+
+A Windows-based management application built with a desktop-oriented architecture.
+
+`.NET Framework` `WinForms` `DevExpress` `Entity Framework` `SQL Server`
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&hide_border=true&bg_color=24272B&title_color=D6FCBB&icon_color=BDFCBB&text_color=E2F0FA&ring_color=D6FCBB" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adnvnnn&theme=graywhite&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adnvnnn&hide_border=true&background=24272B&ring=D6FCBB&fire=BDFCBB&currStreakLabel=D6FCBB&sideLabels=E2F0FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B4BBC5" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnvnnn&layout=compact&theme=graywhite&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnvnnn&layout=compact&hide_border=true&bg_color=24272B&title_color=D6FCBB&text_color=E2F0FA" alt="Top Languages" />
 
 </div>
 
----
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-24272B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adnan-abdollzade-266463347/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-24272B?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Adnvnnn)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-24272B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/Adnvnnn)
+[![Email](https://img.shields.io/badge/Email-Contact-24272B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:Adnan.abdollahzadeh@gmail.com)
+
+</div>
 
 <div align="center">
 
