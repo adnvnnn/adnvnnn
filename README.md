@@ -39,7 +39,7 @@ I'm a Software Engineer focused on building maintainable backend systems and des
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
   ### Database & Infrastructure
-  <img src="https://skillicons.dev/icons?i=sqlserver,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite,docker,git,github" />
 
   ### Frontend
   <img src="https://skillicons.dev/icons?i=blazor,react,html,css,js" />
