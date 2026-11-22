@@ -70,7 +70,24 @@ public class Developer
 ![Git](https://img.shields.io/badge/Git-454B52?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-454B52?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-454B52?style=flat-square&logo=visualstudio&logoColor=9B4F96)
+## Selected Projects
 
+<div align="center">
+
+<a href="https://toysino.ir/">
+  <img src="https://img.shields.io/badge/TOYSINO-E--Commerce-D6FCBB?style=for-the-badge&labelColor=24272B" />
+</a>
+<a href="https://aaelectronic.ir/">
+  <img src="https://img.shields.io/badge/AAE-Electronics-BDFCBB?style=for-the-badge&labelColor=24272B" />
+</a>
+<a href="https://tsma-co.ir/">
+  <img src="https://img.shields.io/badge/TSMA-B2B%20Platform-D6FCBB?style=for-the-badge&labelColor=24272B" />
+</a>
+<img src="https://img.shields.io/badge/VMS-Desktop%20Application-BDFCBB?style=for-the-badge&labelColor=24272B" />
+
+</div>
+
+**Also building:** `BETA Pro` · `TSMA Pro`
 ## Featured Projects
 
 ### Toysino
