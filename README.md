@@ -93,11 +93,7 @@ public class Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&hide_border=true&bg_color=24272B&title_color=D6FCBB&icon_color=BDFCBB&text_color=E2F0FA&ring_color=D6FCBB" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adnvnnn&hide_border=true&background=24272B&ring=D6FCBB&fire=BDFCBB&currStreakLabel=D6FCBB&sideLabels=E2F0FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B4BBC5" alt="GitHub Streak" />
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnvnnn&layout=compact&hide_border=true&bg_color=24272B&title_color=D6FCBB&text_color=E2F0FA" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&hide_border=true&include_all_commits=true&bg_color=24272B&title_color=D6FCBB&icon_color=BDFCBB&text_color=E2F0FA&rank_icon=github&width=800" width="100%" />
 
 </div>
 
