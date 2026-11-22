@@ -93,23 +93,13 @@ public class Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&hide_border=true&include_all_commits=true&bg_color=24272B&title_color=D6FCBB&icon_color=BDFCBB&text_color=E2F0FA&rank_icon=github&width=800" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adnvnnn&show_icons=true&hide_border=true&include_all_commits=true&bg_color=24272B&title_color=D6FCBB&icon_color=BDFCBB&text_color=E2F0FA"
+    width="100%" />
 
-</div>
+  <br />
 
-
-
-## GitRanks
-
-<div align="center">
-
-<a href="https://gitranks.com/profile/adnvnnn">
-  <img src="https://img.shields.io/badge/GITRANKS-Developer%20Ranking-24272B?style=for-the-badge&labelColor=134931&color=24272B" width="100%" />
-</a>
-
-**Explore my developer profile**
-
-[Global Rank](https://gitranks.com/profile/adnvnnn) · [GitHub Analytics](https://gitranks.com/)
+  [![GitRanks](https://gitranks.com/badge/user/adnvnnn/rank.svg)](https://gitranks.com/profile/adnvnnn)
 
 </div>
 
