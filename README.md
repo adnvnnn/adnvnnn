@@ -118,7 +118,7 @@ public class Developer
 
 <div align="center">
 
-### ☕ Build. Improve. Repeat.
+###  Build. Improve. Repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17191C,50:454B52,100:24272B&height=120&section=footer" width="100%" />
 
